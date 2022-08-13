@@ -1,0 +1,29 @@
+body {
+  overflow: hidden;
+  background-color: #001E3C;
+  color: #fff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  text-align: center;
+}
+.btn {
+  display: block;
+  color: red;
+}
+img {
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+h2{
+  font-family: sans-serif;
+  margin-bottom: 1rem;
+}
+code {
+  display: block;
+  color: rgb(26, 231, 26);
+}
